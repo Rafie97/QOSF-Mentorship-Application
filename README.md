@@ -1,4 +1,4 @@
-An algorithm to solve this question on the 2020 QOSF Mentorship application:
+A gradient descent algorithm to solve this question on the 2020 QOSF Mentorship application:
 
 #### Implement a circuit that returns |01> and |10> with equal probability (50% for each).
 Requirements :
